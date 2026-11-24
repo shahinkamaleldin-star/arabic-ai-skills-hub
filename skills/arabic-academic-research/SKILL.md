@@ -1,4 +1,3 @@
-
 ---
 name: arabic-academic-research
 description: Conduct structured Arabic academic research, verify scholarly sources, evaluate evidence, and prepare accurate citations while preventing fabricated references. Use for literature reviews, academic writing, thesis development, and source verification.
